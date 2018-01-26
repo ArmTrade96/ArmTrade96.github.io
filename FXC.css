@@ -2,16 +2,42 @@
     margin: 0;
     padding: 0;
 }
+.header {
+    background-image: url("bgimg.png");
+}
 .container {
     width: 100%;
-    height: 400px;
+    height: 600px;
     border: 1px solid black;
 }
 .inl {
     display: flex;
-    justify-content: flex-end;
     list-style: none;
+    color: aliceblue;
 }
 .inl li {
     margin-right: 25px;
+    margin-top: 25px;
+}
+img {
+    margin-top: 5px;
+    margin-left: 25px;
+}
+#head {
+    margin-right: 400px;
+}
+.htext {
+    position: relative;
+    top: 100px;
+    left: 500px;
+    font-size: x-large;
+    color: aliceblue;
+}
+#btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 70px;
+    font-size: x-large;
+    background: green;
 }
