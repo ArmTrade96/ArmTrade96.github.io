@@ -19,7 +19,7 @@
     margin-right: 25px;
     margin-top: 25px;
 }
-img {
+.header img {
     margin-top: 5px;
     margin-left: 25px;
 }
@@ -32,12 +32,29 @@ img {
     left: 500px;
     font-size: x-large;
     color: aliceblue;
+    width: 450px;
 }
 #btn {
     width: 200px;
     height: 50px;
     border-radius: 10px;
-    margin-left: 70px;
+    margin-left: 130px;
     font-size: x-large;
     background: green;
+}
+.ctn2 {
+    background: #8FBC8F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aboutus {
+    width: 700px;
+    margin-left: 200px;
+}
+.aboutus blockquote {
+    font: large oblique;
+}
+.ing {
+    height: 300px;
 }
