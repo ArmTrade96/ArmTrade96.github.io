@@ -7,6 +7,7 @@
 }
 .container {
     width: 100%;
+    max-width: 1800px;
     height: 600px;
     border: 1px solid black;
 }
@@ -57,4 +58,15 @@
 }
 .ing {
     height: 300px;
+}
+.QA {
+    font-size: x-large;
+}
+.plius {
+    border-radius: 30px;
+    height: 25px;
+    width: 25px;
+}
+.FAQ p {
+    display: none;
 }
