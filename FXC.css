@@ -20,6 +20,15 @@
     margin-right: 25px;
     margin-top: 25px;
 }
+.inl a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.inl a:hover {
+    text-decoration: none;
+    color: aliceblue;
+    background: green;
+}
 .header img {
     margin-top: 5px;
     margin-left: 25px;
